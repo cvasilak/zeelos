@@ -1,4 +1,4 @@
-> NOTE:
+> NOTES:
 > This project aims to be a sample prototype of utilizing Apache Kafka and Lightweight M2M (LWM2M) protocol as the backbone for cloud/edge IoT integration. It is mainly developed to spin out discussions around Kafka and it's usage in IoT and how can be leveraged to simplify and enhance both developer and user experience. It is not meant to be used as is in a production setting. That said, please open issues and make suggestions, will be happy to hear from you!
 
 ## Architecture Overview
